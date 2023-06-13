@@ -1,0 +1,65 @@
+[1] "experiment_2.log"
+[1] "Tue Jun 13 12:41:15 2023"
+
+++++++++++++++++++++++++++++++++
+attack rate =  2 , defense rate =  1 
+
+	equilibrium for multiobjective security game (MOSG)
+
+optimal defense strategy:
+         prob.
+2 0.0001469012
+3 0.2723924597
+4 0.2723924597
+5 0.0000000000
+7 0.0004731793
+8 0.4545950002
+
+worst case attack strategies per goal:
+         1
+1 0.362752
+2 0.362752
+3 0.274496
+[1] 0.074
+
+++++++++++++++++++++++++++++++++
+attack rate =  2 , defense rate =  2 
+
+	equilibrium for multiobjective security game (MOSG)
+
+optimal defense strategy:
+         prob.
+2 5.023513e-05
+3 2.914073e-01
+4 2.914073e-01
+5 0.000000e+00
+7 5.484137e-04
+8 4.165867e-01
+
+worst case attack strategies per goal:
+          1
+1 0.3532629
+2 0.3532629
+3 0.2934741
+[1] 0.057
+
+++++++++++++++++++++++++++++++++
+attack rate =  2 , defense rate =  3 
+
+	equilibrium for multiobjective security game (MOSG)
+
+optimal defense strategy:
+         prob.
+2 2.634574e-05
+3 3.032782e-01
+4 3.032782e-01
+5 1.233244e-05
+7 6.061938e-04
+8 3.927988e-01
+
+worst case attack strategies per goal:
+          1
+1 0.3473431
+2 0.3473431
+3 0.3053138
+[1] 0.046

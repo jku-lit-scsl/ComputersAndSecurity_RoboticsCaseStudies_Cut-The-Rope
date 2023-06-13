@@ -1,0 +1,34 @@
+[1] "experiment_1.log"
+[1] "Tue Jun 13 12:40:58 2023"
+
+Attache Paket: ‘igraph’
+
+Die folgenden Objekte sind maskiert von ‘package:stats’:
+
+    decompose, spectrum
+
+Das folgende Objekt ist maskiert ‘package:base’:
+
+    union
+
+
+++++++++++++++++++++++++++++++++
+attack rate =  2 , defense rate =  0 
+
+	equilibrium for multiobjective security game (MOSG)
+
+optimal defense strategy:
+         prob.
+2 0.000000e+00
+3 2.785801e-01
+4 2.785801e-01
+5 3.841441e-05
+7 2.683658e-04
+8 4.425330e-01
+
+worst case attack strategies per goal:
+          1
+1 0.3596622
+2 0.3596604
+3 0.2806773
+[1] 0.128
